@@ -71,6 +71,11 @@ figcaption {
   color: red;
 }
 
+img, audio, video {
+  max-width: 100%;
+}
+
+
 /*///////// Layout ////////////*/
 * {
   box-sizing: border-box;
